@@ -31,19 +31,13 @@ owner:
   bio: "PhD student in Computational Spatial Epidemiology"
   email: rsanya@gmail.com
   disqus-shortname: 
-  twitter: #
+  twitter: @rtsanya
   facebook: rsanya
-  google:
-    plus: LaurensvanderMaaten
-    analytics: UA-55688460-3
-    scholar: 6GDfcqEAAAAJ  # not supported by jekyll?
-    verify: 
-    ad-client: 
-    ad-slot: 
+  google:#
   bing-verify: 
   github: rsanya
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #lvdmaaten@gmail.com
+  linkedin: #
   instagram: #
   lastfm: #
   tumblr: #
